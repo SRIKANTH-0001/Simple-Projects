@@ -1,9 +1,12 @@
-  Rock-Paper-Scissors Game Project Overview
+                          Rock-Paper-Scissors Game Project Overview
+
 
 Description: 
+
     A classic hand game where players choose Rock, Paper, or Scissors, aiming to win against the computer.
 
 Features:
+
 1.User Interface: Selection buttons, display area for choices and results, and a scoreboard.
 
 2.Game Logic: Random choice generator for the computer, result calculation based on standard rules, and tie condition handling.
@@ -13,14 +16,20 @@ Features:
 4.Styling: CSS for visual appeal, animations for transitions and effects.
 
 Technologies:
+
 >> HTML
 >> CSS
 >> JavaScript
 
 How to Play:
 
+step1:
 Click Rock, Paper, or Scissors.
+
+step2:
 See the computer's choice and game result.
+
+step3:
 Play multiple rounds and track the score.
 
 Sample Pic of the Project Outcome:
